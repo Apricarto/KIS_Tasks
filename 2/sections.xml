@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sections>
+    <Section>
+        <ID>0869ff5d-d492-4a84-9c8b-1b2b8686e071</ID>
+        <Name>Phones</Name>
+    </Section>
+    <Section>
+        <ID>1869ff5d-d492-4a84-9c8b-1b2b8686e071</ID>
+        <Name>Smartphones</Name>
+    </Section>
+    <Section>
+        <ID>2869ff5d-d492-4a84-9c8b-1b2b8686e071</ID>
+        <Name>Telephones</Name>
+    </Section>
+</Sections>

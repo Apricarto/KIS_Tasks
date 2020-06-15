@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <ID>0e8d7c95-7a1b-4ae6-b758-01002a0200a9</ID>
+        <Name>iPhone 7</Name>
+        <VendorCode>1234</VendorCode>
+        <Sections>
+            <IDSection>0869ff5d-d492-4a84-9c8b-1b2b8686e071</IDSection>
+        </Sections>
+    </Product>
+    <Product>
+        <ID>1e8d7c95-7a1b-4ae6-b758-01002a0200a9</ID>
+        <Name>iPhone X</Name>
+        <VendorCode>2343</VendorCode>
+        <Sections>
+            <IDSection>1869ff5d-d492-4a84-9c8b-1b2b8686e071</IDSection>
+        </Sections>
+    </Product>
+    <Product>
+        <ID>2e8d7c95-7a1b-4ae6-b758-01002a0200a9</ID>
+        <Name>All products</Name>
+        <VendorCode>2333</VendorCode>
+        <Sections>
+            <IDSection>0869ff5d-d492-4a84-9c8b-1b2b8686e071</IDSection>
+            <IDSection>1869ff5d-d492-4a84-9c8b-1b2b8686e071</IDSection>
+            <IDSection>2869ff5d-d492-4a84-9c8b-1b2b8686e071</IDSection>
+        </Sections>
+    </Product>
+</Products>
