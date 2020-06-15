@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><Catalog><Sections><Section><ID>0869ff5d-d492-4a84-9c8b-1b2b8686e071</ID><Name>Phones</Name><Products/></Section><Section><ID>1869ff5d-d492-4a84-9c8b-1b2b8686e071</ID><Name>Smartphones</Name><Products/></Section><Section><ID>2869ff5d-d492-4a84-9c8b-1b2b8686e071</ID><Name>Telephones</Name><Products/></Section></Sections></Catalog></rss>
+<rss version="2.0">
+<Catalog>
+    <Sections>
+        <Section>
+            <ID>0869ff5d-d492-4a84-9c8b-1b2b8686e071</ID>
+            <Name>Phones</Name>
+            <Products/>
+        </Section>
+        <Section>
+            <ID>1869ff5d-d492-4a84-9c8b-1b2b8686e071</ID>
+            <Name>Smartphones</Name>
+            <Products/>
+         </Section>
+        <Section>
+            <ID>2869ff5d-d492-4a84-9c8b-1b2b8686e071</ID>
+            <Name>Telephones</Name>
+            <Products/>
+        </Section>
+    </Sections>
+</Catalog>
+</rss>
