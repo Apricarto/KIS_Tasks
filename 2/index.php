@@ -18,7 +18,7 @@ foreach ($sectionsXML->Section as $section){
                 $addProductToSection = $addProductsToSection->addChild('Product');
                 $addProductToSection->addChild('ID', $product->ID);
                 $addProductToSection->addChild('Name', $product->Name);
-                $addProductToSection->addChild('VendorCode', $product->Артикул);
+                $addProductToSection->addChild('VendorCode', $product->VendorCode);
             }
         }
     }
