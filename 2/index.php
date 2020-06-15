@@ -1,6 +1,7 @@
 <?php
 $productsContent = file_get_contents('products.xml');
 $productsXML = new SimpleXMLElement($productsContent);
+
 $sectionsContent = file_get_contents('sections.xml');
 $sectionsXML = new SimpleXMLElement($sectionsContent);
 
@@ -13,7 +14,7 @@ foreach ($sectionsXML->Section as $section){
     $newSection->addChild('Name', $section->Name);
     $addProductsToSection = $newSection->addChild('Products');
     foreach ($productsXML->Product as $product) {
-        foreach($product->Sections->IDSectionа as $id) {
+        foreach($product->Sections->SectionID as $id) {
             if (strcmp($section->ID, $id) == 0) {
                 $addProductToSection = $addProductsToSection->addChild('Product');
                 $addProductToSection->addChild('ID', $product->ID);
